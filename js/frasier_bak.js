@@ -59,7 +59,7 @@ var responses = {
 	"sister" : {
 				 "weight" : 16,
 				 "responses" : ["Tell me more about your family.","How do you get along with your family?","Is your family important to you?"]},
-	"brother" : {
+	"brother" : {
 				 "weight" : 16,
 				 "responses" : ["Tell me more about your family.","How do you get along with your family?","Is your family important to you?"]},
 	"husband" : {
